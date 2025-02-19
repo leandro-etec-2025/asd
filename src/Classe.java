@@ -9,6 +9,9 @@ public class Classe {
 		int int_maximo = 1254000;	
 		System.out.println(int_maximo);
 		
+		// Interio maximo = 1254224
+		float decimal = 12;
+		
 		
 		
 		
